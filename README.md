@@ -427,7 +427,8 @@ pip install python-dotenv
 | Google Vertex AI | Imagem + Vídeo | [console.cloud.google.com](https://console.cloud.google.com) | $300 em créditos (90 dias) |
 | LMNT | Áudio / Voz | [lmnt.com](https://lmnt.com) | Cota gratuita de caracteres |
 | HeyGen | Vídeo com Avatar | [heygen.com](https://heygen.com) | Créditos de teste incluídos |
-
+| Tavus | Vídeo com Avatar | [tavus.io](https://www.tavus.io) | Créditos de teste incluídos |
+                                           
 ---
 
 ## 💡 Pipeline Completo Sugerido
